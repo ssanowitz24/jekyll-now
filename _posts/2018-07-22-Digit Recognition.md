@@ -6,6 +6,12 @@ In this competition, your goal is to correctly identify digits from a dataset of
 
 ---
 
+MNIST ("Modified National Institute of Standards and Technology") is the de facto “hello world” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. As new machine learning techniques emerge, MNIST remains a reliable resource for researchers and learners alike.
+
+In this competition, your goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. We’ve curated a set of tutorial-style kernels which cover everything from regression to neural networks. We encourage you to experiment with different algorithms to learn first-hand what works well and how techniques compare.
+
+# Kaggle Procedure
+
 Below is a procedure for building a neural network to recognize handwritten digits.  The data is from Kaggle, and you will submit your results to Kaggle to test how well you did!
 
 1. Load the training data (`train.csv`) from Kaggle
@@ -26,6 +32,8 @@ Below is a procedure for building a neural network to recognize handwritten digi
 8. Load in Kaggle's `test.csv`
 9. Create your predictions (these should be numbers in the range 0-9).
 10. Save your predictions and submit them to Kaggle.
+
+# Code
 
 
 ```python
