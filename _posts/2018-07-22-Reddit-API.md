@@ -3,13 +3,13 @@
 
 # Executive Summary
 
-   Reddit has become one of the centers of the internet.  Over 150 million people used reddit just in the last month.  This is a huge community of people looking to engage in whatever topics one can think of.   Having a trending or ‘Hot’ post on reddit can really up the views on a post.  Everyone wants to see what everyone else is seeing, no one wants to miss out on anything in this digital age.
+Reddit has become one of the centers of the internet.  Over 150 million people used reddit just in the last month.  This is a huge community of people looking to engage in whatever topics one can think of.   Having a trending or ‘Hot’ post on reddit can really up the views on a post.  Everyone wants to see what everyone else is seeing, no one wants to miss out on anything in this digital age.
    
-   Knowing what features, whether they be numerical or categorical, that can lead to having a hot post on reddit can be a huge advantage for people and businesses looking to gain exposure.  Using the reddit api, nlp and classification models one can gain the edge they need for their post to be ‘Hot’.
+Knowing what features, whether they be numerical or categorical, that can lead to having a hot post on reddit can be a huge advantage for people and businesses looking to gain exposure.  Using the reddit api, nlp and classification models one can gain the edge they need for their post to be ‘Hot’.
    
-   First off, the numerical data.  The amount of time the post has been up on reddit and the number of cross-posts.  A ‘Hot’ post has an average time of being up on reddit for 9.96 hours.  If you are thinking about whether to cross-post or not, it is better to cross-post than to not cross-post. Using nlp techniques I look at words as data. When looking at the subreddits, the top 3 subreddits for a ‘Hot’ post are gaming, funny, and askreddit.  When looking at words in a post title that are in ‘Hot’ posts, the top three are, ‘need’, ‘nice’ and ‘true’. Overall the numerical data lead to better results than the nlp data.
+First off, the numerical data.  The amount of time the post has been up on reddit and the number of cross-posts.  A ‘Hot’ post has an average time of being up on reddit for 9.96 hours.  If you are thinking about whether to cross-post or not, it is better to cross-post than to not cross-post. Using nlp techniques I look at words as data. When looking at the subreddits, the top 3 subreddits for a ‘Hot’ post are gaming, funny, and askreddit.  When looking at words in a post title that are in ‘Hot’ posts, the top three are, ‘need’, ‘nice’ and ‘true’. Overall the numerical data lead to better results than the nlp data.
    
-   These results only enhance what we can learn about what factors lead to a ‘Hot’ post on reddit.  Finding out what makes a post, ‘Hot’ can be vital information to anyone trying to make it in social media or a business trying to be the first to capitalize on a new trend. 
+These results only enhance what we can learn about what factors lead to a ‘Hot’ post on reddit.  Finding out what makes a post, ‘Hot’ can be vital information to anyone trying to make it in social media or a business trying to be the first to capitalize on a new trend. 
 
 
 
