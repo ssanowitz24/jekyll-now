@@ -4,11 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I have a Master of Science in Applied Physics from New Jersey Institute of Technology and have turned my attention to the world of Data Science/Analytics. With machine learning algorithms, problems of many disciplines can be investigated and solved.  I am a very curious and inquisitive person with a thirst for research and knowledge.  My background has made me into a tenacious problem solver and creative thinker.  I will be grateful for the opportunity to learn from those who more experienced than myself.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
