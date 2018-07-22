@@ -1,5 +1,6 @@
 
 # Using Reddit's API for Predicting Comments
+Reddit has become one of the centers of the internet.  Over 150 million people used reddit just in the last month.  This is a huge community of people looking to engage in whatever topics one can think of.   Having a trending or ‘Hot’ post on reddit can really up the views on a post.  Everyone wants to see what everyone else is seeing, no one wants to miss out on anything in this digital age.
 
 # Executive Summary
 Reddit has become one of the centers of the internet.  Over 150 million people used reddit just in the last month.  This is a huge community of people looking to engage in whatever topics one can think of.   Having a trending or ‘Hot’ post on reddit can really up the views on a post.  Everyone wants to see what everyone else is seeing, no one wants to miss out on anything in this digital age.
