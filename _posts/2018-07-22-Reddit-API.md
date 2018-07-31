@@ -961,8 +961,6 @@ plot_confusion_matrix(confusion_matrix(y_test,y_pred), classes =['Not', 'Hot'], 
 ```
 
 
-![png](/images/starter-code_files/starter-code_47_0.png)
-
 
 
 ```python
@@ -981,7 +979,6 @@ plt.show()
 ```
 
 
-![png](/images/starter-code_files/starter-code_48_0.png)
 
 
 #### Create a few new variables in your dataframe to represent interesting features of a thread title.
@@ -1227,7 +1224,7 @@ plot_confusion_matrix(confusion_matrix(y_test,y_pred), classes =['Not', 'Hot'], 
 ```
 
 
-![png](/images/starter-code_files/starter-code_59_0.png)
+
 
 
 
@@ -1245,7 +1242,7 @@ plt.show()
 ```
 
 
-![png](/images/starter-code_files/starter-code_60_0.png)
+
 
 
 # Model 3 - Many features RandomForest
@@ -1593,7 +1590,7 @@ plot_confusion_matrix(confusion_matrix(y_test,y_pred), classes =['Not', 'Hot'], 
 ```
 
 
-![png](/images/starter-code_files/starter-code_78_0.png)
+
 
 
 
@@ -1611,7 +1608,7 @@ plt.show()
 ```
 
 
-![png](/images/starter-code_files/starter-code_79_0.png)
+
 
 
 #### Use cross-validation in scikit-learn to evaluate the model above. 
@@ -1727,7 +1724,7 @@ plot_confusion_matrix(confusion_matrix(y_test,y_pred), classes =['Not', 'Hot'], 
 ```
 
 
-![png](/images/starter-code_files/starter-code_91_0.png)
+
 
 
 
@@ -1746,7 +1743,7 @@ plt.show()
 ```
 
 
-![png](/images/starter-code_files/starter-code_92_0.png)
+
 
 
 
@@ -1862,7 +1859,7 @@ plot_confusion_matrix(confusion_matrix(y_test,y_pred), classes =['Not', 'Hot'], 
 ```
 
 
-![png](/images/starter-code_files/starter-code_104_0.png)
+
 
 
 
@@ -1886,7 +1883,7 @@ plt.show()
 ```
 
 
-![png](/images/starter-code_files/starter-code_106_0.png)
+
 
 
 
