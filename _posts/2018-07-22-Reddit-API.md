@@ -1747,17 +1747,12 @@ plt.show()
 ![png](/images/starter-code_files/starter-code_92_0.png)
 
 
-#### Use Count Vectorizer from scikit-learn to create features from the thread titles. 
-- Examine using count or binary features in the model
-- Re-evaluate your models using these. Does this improve the model performance? 
-- What text features are the most valuable? 
 
 # Model 5 Title as only Feature
 This model is alot like the first model with subreddit being the only feature, but now the words in titles are the only features. One big difference is the stop_words ='english in the CountVectorizer. This will filter out words that do not transmit vital information, such as words like,'for', 'or' and 'they' as examples. When running an model without optmization, the model returns an accuracy score of 49.84% the worst scoring model and the only model to score worse than the baseline. When running gridsearch to optimize the model the model returns a score of 55.84%. The Gridsearch CV optimized the title feature utilizing the countvectorizer's binary set to equal False, which means each word gets a count everytime that word shows up in a post's title. 
 
 
 ```python
-## YOUR CODE HERE
 X = df['title']
 X_train, X_test, y_train, y_test = train_test_split(X, y, stratify=y, random_state=22)
 X_train.shape
@@ -1928,4 +1923,6 @@ df.num_comments.median()
 
     21.0
 
+# Conclusion, Next Steps
+In a society of instantaneous information everday brings a new news cycle. A more extensive analysis must be done. One where posts are scraped over a much grander time scale to account for an ever changing information scape. Numerical features were of a much greater signifigance to an 'Hot' or 'Not' post than the NLP features, so gathering more numerical features would acheive a better model. Reddit posts are ever changing and predicting comments on them are just as difficult as predicting current events. 
 

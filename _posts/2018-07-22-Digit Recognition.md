@@ -1577,3 +1577,5 @@ submit2
 #submit to kaggle
 submit2.to_csv('./submit2.csv', index=False)
 ```
+# Conclusion
+Learning about fully forward neural networks and convolutional neural networks this kaggle competition was great practice. I could see the power of the convolutional neural network on image data and it produces an respectable kaggle score. Out of all the models I have learned the Neural Networks is one of my favorites to build and test. 
