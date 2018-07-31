@@ -9,6 +9,8 @@ MNIST ("Modified National Institute of Standards and Technology") is the de fact
 
 In this competition, your goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. We’ve curated a set of tutorial-style kernels which cover everything from regression to neural networks. We encourage you to experiment with different algorithms to learn first-hand what works well and how techniques compare.
 
+[Follow work here](https://github.com/ssanowitz24/Digit-Recognition-)
+
 # Kaggle Procedure
 
 Below is a procedure for building a neural network to recognize handwritten digits.  The data is from Kaggle, and you will submit your results to Kaggle to test how well you did!
