@@ -11,6 +11,8 @@ The next step was engineering some festures with the help of sci-kit-learn. Firs
 
 Next was getting a dataframe of all numerical features. Before we did that the names columns was made into the index to be later used for the recommender system. Any column that did not contain numerical entries was excluded from the features in the dataframe. Now that the dataframe is all numerical a distance metric between all the vectors can be made. Utilzing cosine similarity distance metric we can see how similar the scotches are to each other. Cosine Similarity was employed on the whole dataframe and a new data frame was made with the index as the names columns and the coloumns as the name columns, making a cosine similarity matrix. Using the cosine simialrity matrix reccomendations can be made. It works on the pricipal of cosine. Similar vectors will have a small angle, closer to zero than dissimilar vectors which will have vectors with large angles between them, the largest being 90 degrees. The cosine of zero is one, so similar vectors will have a cosine value close to one. The cosine of 90 is zero so, dissimilar vectors will have a cosine value close to zero. We can see the top five cosine similarity values using the reccomender cell. 
 
+[Follow work here](https://github.com/ssanowitz24/Scotch-Reccomender)
+
 
 
 
