@@ -1,7 +1,7 @@
 
 # Executive Summary
 ### Run last two cells to see reccomender in action
-The goal of this project was to build a reccomender system. The Scotch-whiskey dataset was obtained from kaggle.com. It originally consiited of name of scotches, category of scotch, review points, price, currency and description. As given this dataset, with some cleaning, could be used for a reccomender system, but with some feature engineering and extraction, can be made more robust.
+The goal of this project was to build a reccomender system. The Scotch-whiskey dataset was obtained from kaggle.com. It originally consited of name of scotches, category of scotch, review points, price, currency and description. As given this dataset, with some cleaning, could be used for a reccomender system, but with some feature engineering and extraction, can be made more robust.
 
 The first step is cleaning the data. Checking for duplicate values and null values, and dropping those rows from the dataframe. A more interesting problem was makling sure that there are no duplicate names in the name columns. A duplicate name will cause an error in the reccomender system. 
 
